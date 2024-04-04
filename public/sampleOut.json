@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Christian Ziegler: Republican chairman in Florida suspended amid rape allegation",
+            "description": "Calls for Christian Ziegler's resignation grow after allegations he raped a woman he and his wife dated.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-67747879",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AAA7/production/_132078634_gettyimages-1813811822.jpg",
+            "publishedAt": "2023-12-18T11:22:21.9132509Z",
+            "content": "The Republican Party of Florida has suspended its chairman and demanded his resignation as police investigate a sexual assault allegation against him.\r\nChristian Ziegler is accused of raping a woman … [+2329 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Hear crash as Biden sees car collide with SUV",
+            "description": "US Secret Service staff rush the president into his car after the accident in Delaware.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-67746992",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/38FB/production/_132078541_p0h06mqx.jpg",
+            "publishedAt": "2023-12-18T09:37:20.0274077Z",
+            "content": "US President Joe Biden was rushed into a car after witnessing a vehicle crash into a Secret Service vehicle guarding his motorcade in Delaware. \r\nThe president and his wife, Jill Biden, were leaving … [+442 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "North Korea fires most powerful long-range missile after South Korea-US meeting",
+            "description": "Pyongyang had warned of action after the US and South Korea met last week to talk defence.",
+            "url": "http://www.bbc.co.uk/news/world-asia-china-67745684",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/129F5/production/_132077267_f94018074182e7a4139827dd226f1af6484abbb2.jpg",
+            "publishedAt": "2023-12-18T07:22:19.1894104Z",
+            "content": "North Korea has fired its most advanced long-range missile, South Korean authorities confirm, defying UN curbs.\r\nThe launch of the solid-fuel intercontinental ballistic missile drew immediate condemn… [+2215 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Israel opens Gaza aid crossing for first time as ceasefire calls grow",
+            "description": "UN aid enters Gaza directly from Israel, as the UK, Germany and France call for fighting to stop.",
+            "url": "http://www.bbc.co.uk/news/live/world-middle-east-67746033",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2023-12-18T06:07:21.4557053Z",
+            "content": "It's just ticked over 07:15 in Gaza and Israel, and 05:15 in London - if youre just joining us, heres a quick catch-up on the latest developments.\r\nUN aid has entered Gaza directly from Israel for th… [+1156 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Jimmy Lai: Hong Kong pro-democracy media tycoon's trial begins",
+            "description": "His case has drawn international uproar and is seen as a test of Hong Kong's judicial independence.",
+            "url": "http://www.bbc.co.uk/news/world-asia-china-67745653",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18305/production/_132077099_gettyimages-1213417504.jpg",
+            "publishedAt": "2023-12-18T02:37:19.7204872Z",
+            "content": "Pro-democracy media tycoon Jimmy Lai's long-awaited trial over charges that he \"colluded with foreign forces\" has begun in Hong Kong. \r\nThe 76-year-old, who has been in prison since December 2020, co… [+4565 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Fourteen killed in Argentina as storm brings 150km/h winds and disruption",
+            "description": "The storm damaged buildings and caused power cuts across Buenos Aires province over the weekend.",
+            "url": "http://www.bbc.co.uk/news/world-latin-america-67745451",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8199/production/_132077133_08e6f53a2b19fe619210a91aec01283f73c5a7600_0_5500_36841000x670.jpg",
+            "publishedAt": "2023-12-18T02:07:15.0486416Z",
+            "content": "Fourteen people have been killed after a storm brought heavy rain and winds of 150km/h (93mph) to eastern Argentina. \r\nThe storm hit the port city of Bahia Blanca, around 570km (355 miles) south of B… [+2740 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "End 'culture of hatred', says mother of boy shot in US",
+            "description": "Glasgow-born Susan Swimm's 23-year-old son Rory was shot dead by a teenager in Utah in October.",
+            "url": "http://www.bbc.co.uk/news/uk-scotland-67694134",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DC25/production/_132075365_roryswimm.png",
+            "publishedAt": "2023-12-18T01:37:16.8936473Z",
+            "content": "A Scottish mother whose son was shot dead in the US has called for an end to the country's \"culture of hatred\".\r\nDetectives in Utah believe Rory Swimm was killed by a 15-year-old schoolboy who had be… [+5373 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Serbia's Vucic claims big election victory for party",
+            "description": "The president's party is set to win, projections say, but the opposition still has hopes in Belgrade.",
+            "url": "http://www.bbc.co.uk/news/world-europe-67742032",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7965/production/_132077013_e955ce2ccd066ec0f9cbe20fabde9a9e897eb9310_268_5308_29881000x563.jpg",
+            "publishedAt": "2023-12-18T01:07:19.0484947Z",
+            "content": "Serbian President Aleksandar Vucic has claimed victory in snap parliamentary elections, saying his party is heading for an absolute majority.\r\nHis Serbian Progressive Party, or SNS, is set to win alm… [+4675 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Afghanistan: 'Tea is sometimes all I have to give my hungry baby'",
+            "description": "Some Afghans are giving their children sedatives as they struggle to feed them following huge aid cuts.",
+            "url": "http://www.bbc.co.uk/news/world-asia-67707715",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5DC5/production/_132050042_5.jpg",
+            "publishedAt": "2023-12-18T00:07:18.5485381Z",
+            "content": "\"The last time I was able to buy milk for my baby was two months ago. Normally I just fill the [feeding] bottle with tea. Or I soak bread in tea and then feed it to her,\" Sohaila Niyazi says, sitting… [+7562 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Israel Gaza: Hostages shot by IDF put out 'SOS' sign written with leftover food",
+            "description": "The three hostages were mistakenly killed in Gaza on Friday by Israeli troops.",
+            "url": "http://www.bbc.co.uk/news/world-middle-east-67745092",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/40B7/production/_132076561_dc5933e2-e29e-4876-bc84-6414c15d778f.jpg",
+            "publishedAt": "2023-12-17T20:52:18.9707274Z",
+            "content": "Three Israeli hostages mistakenly killed by soldiers in Gaza on Friday had used leftover food to write signs pleading for help, Israel says.\r\nThe men had been staying at the building next to where th… [+3671 chars]"
+        }
+    ]
+}
